@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Domaine provisoire à remplacer par le domaine officiel avant la mise en ligne. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://iconemedia.bf/</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/about.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/presentation.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/history.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/team.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/values.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/services.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/gallery.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/faq.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/testimonials.html</loc>
+  </url>
+  <url>
+    <loc>https://iconemedia.bf/contact.html</loc>
+  </url>
+</urlset>

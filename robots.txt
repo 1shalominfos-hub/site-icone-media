@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Domaine provisoire à remplacer par le domaine officiel avant la mise en ligne.
+Sitemap: https://iconemedia.bf/sitemap.xml
